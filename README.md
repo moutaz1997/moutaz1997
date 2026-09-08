@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @moutaz1997
-- 👀 I’m interested in Machine learning from zero to Hero
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on machine learning models
-- 📫 How to reach me https://www.facebook.com/Mo3tz.Mamdouh
-- 😄 Pronouns: HE/Ze/Tea with milk
-- ⚡ Fun fact: 
+Moutaz Mamdouh
+#About Me
+Chemistry PhD candidate at Wrocław University of Science and Technology. 
+Currently learning data analysis and building my skills in ML, SQL, and Power BI.
 
-<!---
-moutaz1997/moutaz1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📚 Active Learning & Certifications
+🔄 **Matsuo Lab — GCI Course:** Advanced Python & ML *(Restudying & reinforcing fundamentals)*
+📊 **Microsoft Certified Track:** Power BI Data Analyst (PL-300 curriculum) *(Upcoming)*
+🗄️ **Relational Databases:** Practical SQL query optimization *(Upcoming)*
+
+## Projects
+Projects and learning exercises will be added as I progress through courses.
+
+## Background
+- B.Sc. Chemical Engineering
+- M.Sc. Environmental Quality Management
+- PhD candidate in Bioprocess Engineering
+
+🌐 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/moutazahmed/
+
+---
+
+**Goal:** Build a portfolio documenting my learning journey from beginner to data analyst.
